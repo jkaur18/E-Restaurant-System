@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students>
+  <student>
+    <studentid>20091000</studentid>
+    <firstname>Jaspreet</firstname>
+    <lastname>Kang</lastname>
+    <average>93.6</average>
+  </student>
+  
+  <student>
+    <studentid>20091001</studentid>
+    <firstname>Kiranpreet</firstname>
+    <lastname>Dhatt</lastname>
+    <average>93.5</average>
+  </student>
+  
+  <student>
+    <studentid>20091002</studentid>
+    <firstname>Amardeep</firstname>
+    <lastname>Singh</lastname>
+    <average>93.4</average>
+  </student>
+</students>
