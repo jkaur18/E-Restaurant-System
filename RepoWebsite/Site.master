@@ -59,7 +59,7 @@
                     <asp:Menu ID="Menu1" runat="server"
                         DataSourceID="SiteMapDataSourceRepoDemo" CssClass="" Orientation="Horizontal" 
                         StaticDisplayLevels="1" IncludeStyleBlock="false" 
-                        StaticMenuItemStyle-CssClass="nav navbar-nav" StaticSelectedStyle-CssClass="active"
+                        StaticMenuStyle-CssClass="nav navbar-nav" StaticSelectedStyle-CssClass="active"
                         DynamicMenuStyle-CssClass="dropdown-menu" EnableViewState="false" 
                         EnableTheming="false"></asp:Menu>
                     <script>
